@@ -43,7 +43,7 @@ splash.Destroy()
 :*:|s::psk
 :*:|k::kantk
 :*:|a::¡Ah!
-:*:|a::¡Eh!
+:*:|e::¡Eh!
 
 :*:|o::ó kach
 
