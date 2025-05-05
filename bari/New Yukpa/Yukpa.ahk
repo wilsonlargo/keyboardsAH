@@ -42,8 +42,8 @@ splash.Destroy()
 :*:|p::pĉhk
 :*:|s::psk
 :*:|k::kantk
-:*:|a::¡Ah!
-:*:|e::¡Eh!
+:*:|a::¡Ah! 
+:*:|e::¡Eh! 
 
 :*:|o::ó kach
 
