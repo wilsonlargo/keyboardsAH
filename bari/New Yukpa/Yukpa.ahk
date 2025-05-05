@@ -25,7 +25,7 @@ splash.Destroy()
 :*:-o::õ
 :*:[o::õ
 
-:*:-u::ũ
+::-u::ũ
 :*:[u::ũ
 
 
@@ -46,6 +46,7 @@ splash.Destroy()
 :*:|e::¡Eh! 
 
 :*:|o::ó kach
+:*:-y::ĉhpat
 
 
 :*:--::—
