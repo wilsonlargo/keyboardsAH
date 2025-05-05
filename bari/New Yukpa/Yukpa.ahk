@@ -40,6 +40,7 @@ splash.Destroy()
 
 :?c*:|n::nʉkanakotkat
 :?c*:|p::pĉhk
+:?c*:|t::tumanka
 :?c*:|s::psk
 :?c*:|k::kantk
 :?c*:|a::¡Ah! 
